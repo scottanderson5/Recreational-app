@@ -22,14 +22,14 @@ Design App User Stories and Notes
 	-She usually goes to the bar afterwards with the team, but not always. She takes some nights off from the bar. 
 	-She may referee another game sometimes, but never as the head ref. Only as one of the line refs. 
 
-3. John Thatcher
-	-This is John's first season playing rec kickball. He joined because a friend of his recommended it.
+3. Tony Thatcher
+	-This is Tony's first season playing rec kickball. He joined because a friend of his recommended it.
 	-He is one one team, one night during the week.
 	-He doesn't always make every game, but he makes the majority of them.
 	-He usually plays exclusively in the outfield, but he also fills in at third and first base as the seaosn progresses and his skills get better.
 	-He kicks near the bottom of the lineup.
 	-He rarely goes to the bar after the game. But he will go on occasion.
-	-John never refs any of the other games. 	
+	-Tony never refs any of the other games. 	
 
 
 
@@ -39,10 +39,10 @@ Design App User Stories and Notes
 	Scenario (Dave)
 		Prior to the game being played that night, Dave sent the lineup and position chart out the rest of the team. After warmups and a general strategy session, one of the players runs up, out of breath and late, to Dave. Explaining that she had to stay late at work and then got stuck in traffic on the way over she tells him she hasn't had time to look at the lineup or position chart he previously sent out. Dave takes out the app and pulls up the charts, then tells her what position she is playing and the number she holds in the kicking lineup.
 
-	Scenario (John)
-		John is considering wether he is going to show up and play tonight. His girlfriend has been complaining that kickball is starting to take up to much of this time, and she doesn't get to see him as much. He logs onto the app and see that Dave has pushed up the lineups. After seeing that he will be kicking near the end of the lineup and that he is only playing right field every other inning, he decides to skip playing kickball that night and go out with his girlfriend.	
+	Scenario (Tony)
+		Tony is considering wether he is going to show up and play tonight. His girlfriend has been complaining that kickball is starting to take up to much of this time, and she doesn't get to see him as much. He logs onto the app and see that Dave has pushed up the lineups. After seeing that he will be kicking near the end of the lineup and that he is only playing right field every other inning, he decides to skip playing kickball that night and go out with his girlfriend.	
 
-	User Case (John)
+	User Case (Tony)
 		-Take out his phone
 		-Pulls up the app in his phone, he is automatically logged in
 		-On the home page, he hits the hamburger menu button to display the app menu
@@ -50,7 +50,7 @@ Design App User Stories and Notes
 		-He sees that he is low on the kicking lineup and playing outfield every other inning.
 		-John closes the app and put the phone away.
 
-	User Flow (John)
+	User Flow (Tony)
 
 		-Log In (auto)
 		-Home Page
